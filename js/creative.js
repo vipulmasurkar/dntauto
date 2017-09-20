@@ -64,7 +64,12 @@
       preload: [0, 1]
     },
     image: {
-      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+      tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+      titleSrc:item => {
+        console.log(item.el.attr('title'))
+        return item.el.attr('title') === undefined ? 
+        '<h3 align="center">Details yet to be added</h3>' : '<h3 align="center">'+ item.el.attr('title') +'</h3>';
+      }
     }
   });
 
