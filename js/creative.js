@@ -68,7 +68,7 @@
       titleSrc:item => {
         console.log(item.el.attr('title'))
         return item.el.attr('title') === undefined ? 
-        '<h3 align="center">Details yet to be added</h3>' : '<h3 align="center">'+ item.el.attr('title') +'</h3>';
+        '<h3 align="center">Details yet to be added</h3>' : '<h6 align="center">'+ item.el.attr('title') +'</h6>';
       }
     }
   });
