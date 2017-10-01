@@ -52,7 +52,7 @@
     distance: '0px'
   }, 300);
 
-  // Magnific popup calls
+/*  Magnific popup calls
   $('.popup-gallery').magnificPopup({
     delegate: 'a',
     type: 'image',
@@ -66,11 +66,11 @@
     image: {
       tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
       titleSrc:item => {
-        console.log(item.el.attr('title'))
+        // console.log(item.el.attr('title'))
         return item.el.attr('title') === undefined ? 
         '<h3 align="center">Details yet to be added</h3>' : '<h6 align="center">'+ item.el.attr('title') +'</h6>';
       }
     }
-  });
+  });*/
 
 })(jQuery); // End of use strict
