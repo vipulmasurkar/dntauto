@@ -126,8 +126,8 @@
   {
     "product_name": "Silicon Spray",
     "description": "<li>DNT Silicone Spray does an excellent job lubricating the glass biddings or any movable part.</li><li>The formula contains silicon that helps with uniform and long lasting lubrication.</li><li>After the application you can feel the difference during the movement of the parts.</li>",
-    "imageName": "window_channel_dresser",
-    "imagePath": "img/products/window_channel_dresser.jpg",
+    "imageName": "silicone_spray",
+    "imagePath": "img/products/silicone_spray.jpg",
     "currencyFormat": "&#8377",
     "isActive": true,
     "prices": [
@@ -212,6 +212,90 @@
       {
         "ml": "500 ml",
         "price": "550"
+      }
+    ]
+  },
+  {
+    "product_name": "AntiBacterial Disinfectant Treatment Liquid",
+    "description": "",
+    "imageName": "treatment_liquid_200ml",
+    "imagePath": "img/products/treatment_liquid_200ml.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "200 ml",
+        "price": "TBA"
+      }
+    ]
+  },
+  {
+    "product_name": "AntiBacterial Disinfectant Treatment Liquid",
+    "description": "Description yet to be added",
+    "imageName": "treatment_liquid_500ml",
+    "imagePath": "img/products/treatment_liquid_500ml.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "500 ml",
+        "price": "TBA"
+      }
+    ]
+  },
+  {
+    "product_name": "AntiBacterial Disinfectant Treatment Liquid",
+    "description": "Description yet to be added",
+    "imageName": "treatment_liquid_1l",
+    "imagePath": "img/products/treatment_liquid_1l.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "1 litre",
+        "price": "TBA"
+      }
+    ]
+  },
+  {
+    "product_name": "AntiBacterial Disinfectant Treatment Machine",
+    "description": "Description yet to be added",
+    "imageName": "treatment_machine",
+    "imagePath": "img/products/treatment_machine.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "",
+        "price": "TBA"
+      }
+    ]
+  },
+  {
+    "product_name": "Cable Protector",
+    "description": "Description yet to be added",
+    "imageName": "cable_protector",
+    "imagePath": "img/products/cable_protector.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "120 ml",
+        "price": "299"
+      }
+    ]
+  },
+  {
+    "product_name": "Chain Cleaner",
+    "description": "Description yet to be added",
+    "imageName": "chain_cleaner",
+    "imagePath": "img/products/chain_cleaner.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "120 ml",
+        "price": "126"
       }
     ]
   }
