@@ -1,0 +1,19 @@
+[
+    {
+        "product_name": "DNT_FOO",
+        "description": "Some Random Data to Test",
+        "imageName" : "carbeurator",
+        "imagePath": "img/products/carbeurator.jpg",
+        "currencyFormat": "&#8377",
+        "prices": [
+            {
+                "ml": "120 ml",
+                "price": 333
+            },
+            {
+                "ml": "500 ml",
+                "price": 555
+            }
+        ]
+    }
+]
