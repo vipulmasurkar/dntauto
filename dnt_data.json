@@ -1,19 +1,218 @@
 [
-    {
-        "product_name": "DNT_FOO",
-        "description": "Some Random Data to Test",
-        "imageName" : "carbeurator",
-        "imagePath": "img/products/carbeurator.jpg",
-        "currencyFormat": "&#8377",
-        "prices": [
-            {
-                "ml": "120 ml",
-                "price": 333
-            },
-            {
-                "ml": "500 ml",
-                "price": 555
-            }
-        ]
-    }
+  {
+    "product_name": "Battery Terminal Coat",
+    "description": "<li>DNT Battery Terminal Coat prevents the deposition of sulfur onto the terminals of the battery.</li><li>This is a very major issue wherein due to the deposition of sulfur, the car sometimes fails to start due to broken contact between the terminal and the connecting wires.</li><li>Once applied, DNT Battery Terminal Coat creates a coat around the terminals which allows current to flow through it and prevents further deposition of sulfur.</li>",
+    "imageName": "batteryCoat",
+    "imagePath": "img/products/batteryCoat.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "400 ml",
+        "price": "410"
+      }
+    ]
+  },
+  {
+    "product_name": "Carburetor and Choke Cleaner",
+    "description": "<li>DNT Carburetor and Choke cleaner has a double action formula that helps clean the carburetor instantly. </li> <li > DNT Carburetor and Choke cleaner can also be used to clean throttlebodies with very less hassle. </li>",
+    "imageName": "carbeurator",
+    "imagePath": "img/products/carbeurator.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "100 ml",
+        "price": "145"
+      },
+      {
+        "ml": "500 ml",
+        "price": "310"
+      }
+    ]
+  },
+  {
+    "product_name": "Rust Off",
+    "description": "<li>DNT Rust-Off can be described as a very powerful anti-rust agent that instantly takes off rust off the surface. Due to its concentrated formula even little application of the product can give visible effects. </li><li> Once applied it coats the applied surface to prevent further corrosion. </li>",
+    "imageName": "rustoff",
+    "imagePath": "img/products/rustoff.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "120 ml",
+        "price": "145"
+      },
+      {
+        "ml": "500 ml",
+        "price": "310"
+      }
+    ]
+  },
+  {
+    "product_name": "Air Conditioner Disinfectant",
+    "description": "<li>DNT AC Disinfectant is an excellent formula that services the AC without having to go through the tedious process of cleaning the AC vents manually and taking apart every individual part.</li><li>This unique formula drains the clogged AC vents onto the cooling oil taking with it all the mould and dust particles, fungus that reduces AC airflow. Once it drains onto the cooling coil, due to active ingredients the cooling coil gets cleaned and in turn the airflow and cooling of the car AC are enhanced.</li><li>It is also infused with fresh lemon fragrance that keeps the cabin fresh and smell free.</li>",
+    "imageName": "ac_disinfectant",
+    "imagePath": "img/products/ac_disinfectant.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "350 ml",
+        "price": "715"
+      }
+    ]
+  },
+  {
+    "product_name": "Rat Repellent Spray",
+    "description": "<li>DNT Rat Repellent Spray is in essence a better alternative to any other Rat Repellent Sprays available in the market today because of the following reasons.</li><li>It does not give off pungent smell unlike other ordinary rat repellent sprays, instead DNT Rat Repellent Spray has a mint fragrance infused into the canister which helps with easy application.</li><li>It does not wear off as easily as other rat repellent sprays since it has a thicker consistency and sticks to the wires better and may work for an excess of 3 months.</li><li>The gas canister sprays a continuous spray of the entire material and does not need to be sprayed like a perfume frequently.</li>",
+    "imageName": "car_rat_repellent",
+    "imagePath": "img/products/car_rat_repellent.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "200 ml",
+        "price": "599"
+      }
+    ]
+  },
+  {
+    "product_name": "Chain Lube",
+    "description": "DNT Silicone based Chain Lube is a low odour, semi-synthetic spray lubricant designed to meet the demands of today's high performance motorcycle chains and sprockets. Tested by professionals and competitive race teams, DNT Silicon base Chain Lube in Aerosol is perfect to keep your chain in perfect long lasting condition, and minimal sling off.",
+    "imageName": "chain_lube",
+    "imagePath": "img/products/chain_lube.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "120 ml",
+        "price": "126"
+      },
+      {
+        "ml": "450 ml",
+        "price": "500"
+      }
+    ]
+  },
+  {
+    "product_name": "Rat Repellent Powder",
+    "description": "<li>DNT Rat Repellent Powder is a unique formula that directly affects the mucus membranes of rats or any other rat like rodents that could potentially damage the insides of the engine bay that consists of expensive wiring. DNT Rat Repellent Powder drives away rats and doesn’t kill them.</li><li>The unique formula is formulated in such a way that it works for 6 months straight without you having to worry about the rodents causing damage to your vehicle.</li>",
+    "imageName": "rat_jell",
+    "imagePath": "img/products/rat_jell.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "90 grams",
+        "price": "599"
+      }
+    ]
+  },
+  {
+    "product_name": "Rat Repellent Box",
+    "description": "<li>DNT Rat Repellent Powder is a unique formula that directly affects the mucus membranes of rats or any other rat like rodents that could potentially damage the insides of the engine bay that consists of expensive wiring. DNT Rat Repellent Powder drives away rats and doesn’t kill them.</li><li>The unique formula is formulated in such a way that it works for 6 months straight without you having to worry about the rodents causing damage to your vehicle.</li>",
+    "imageName": "rat_jell_box",
+    "imagePath": "img/products/rat_jell_box.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "90 grams",
+        "price": "7200"
+      }
+    ]
+  },
+  {
+    "product_name": "Silicon Spray",
+    "description": "<li>DNT Silicone Spray does an excellent job lubricating the glass biddings or any movable part.</li><li>The formula contains silicon that helps with uniform and long lasting lubrication.</li><li>After the application you can feel the difference during the movement of the parts.</li>",
+    "imageName": "window_channel_dresser",
+    "imagePath": "img/products/window_channel_dresser.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "200 ml",
+        "price": "225"
+      },
+      {
+        "ml": "120 ml",
+        "price": "145"
+      }
+    ]
+  },
+  {
+    "product_name": "Dashboard and Tyre Polish",
+    "description": "Imparts a durable protective shine to enhance interior or exterior plastics, vinyl, sealed leather and rubber. Use on dashboards, doors seals, grilles, mouldings, bumpers and similar surfaces. DNT Dashboard and Tyre polish is the ultimate in powerful UV protectants, providing an unparalleled sun shield on plastic, vinyl, fiberglass. DNT Dashboard and Tyree Polish has raised the industry standard. No other products work as intensely, protect as powerfully, or last as long.",
+    "imageName": "dashboardpolish",
+    "imagePath": "img/products/dashboardpolish.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": false,
+    "prices": [
+      {
+        "ml": "200 ml",
+        "price": "225"
+      },
+      {
+        "ml": "5 l",
+        "price": "2699"
+      }
+    ]
+  },
+  {
+    "product_name": "Micro Fibre Cloth",
+    "description": "Description yet to be added",
+    "imageName": "fibrecloth",
+    "imagePath": "img/products/fibrecloth.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": false,
+    "prices": [
+      {
+        "ml": "40 x 60 cm",
+        "price": "200"
+      }
+    ]
+  },
+  {
+    "product_name": "Car Wash Shampoo",
+    "description": "Description to be added soon",
+    "imageName": "car_wash_shampoo",
+    "imagePath": "img/products/car_wash_shampoo.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": false,
+    "prices": [
+      {
+        "ml": "",
+        "price": "000"
+      }
+    ]
+  },
+  {
+    "product_name": "DNT 3 in 1 Polish",
+    "description": "<li>DNT 3 in 1 Polish is an all rounder polish that has multiple uses in the car.</li><li>It can be used to clean leather seats that tend to get dirty over time due to dust etc.</li><li>It can be used to polish the dashboard. Application to the dashboard gives it a shiny effect that lasts for more than 3 weeks.</li><li>It can also be used to polish the tires to make them look brand new every time you wash the car.</li><li>There is also a bonus use that DNT 3in1 Polish provides. It also acts a scratch remover for hairline scratches and makes them vanish.</li>",
+    "imageName": "3_in_1_polish",
+    "imagePath": "img/products/3_in_1_polish.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "200 ml",
+        "price": "225"
+      }
+    ]
+  },
+  {
+    "product_name": "DNT Anti Rust Undercoat",
+    "description": "Anti Rust Coating is a must these days because the bottom of the car is always in contact with mud, dust particles, water etc that could lead to rusting and corrosion. DNT Anti Rust Undercoat creates a rubberized coating after application unlike normal anti rust coats.",
+    "imageName": "antirust_undercoat",
+    "imagePath": "img/products/antirust_undercoat.jpg",
+    "currencyFormat": "&#8377",
+    "isActive": true,
+    "prices": [
+      {
+        "ml": "500 ml",
+        "price": "550"
+      }
+    ]
+  }
 ]
