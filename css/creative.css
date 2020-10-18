@@ -75,7 +75,8 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #222222; }
+  /* -webkit-tap-highlight-color: #222222;  */
+}
 
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
