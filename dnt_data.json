@@ -221,7 +221,7 @@
     "imageName": "treatment_liquid_200ml",
     "imagePath": "img/products/treatment_liquid_200ml.jpg",
     "currencyFormat": "&#8377",
-    "isActive": true,
+    "isActive": false,
     "prices": [
       {
         "ml": "200 ml",
@@ -235,7 +235,7 @@
     "imageName": "treatment_liquid_500ml",
     "imagePath": "img/products/treatment_liquid_500ml.jpg",
     "currencyFormat": "&#8377",
-    "isActive": true,
+    "isActive": false,
     "prices": [
       {
         "ml": "500 ml",
@@ -249,7 +249,7 @@
     "imageName": "treatment_liquid_1l",
     "imagePath": "img/products/treatment_liquid_1l.jpg",
     "currencyFormat": "&#8377",
-    "isActive": true,
+    "isActive": false,
     "prices": [
       {
         "ml": "1 litre",
@@ -267,7 +267,7 @@
     "prices": [
       {
         "ml": "",
-        "price": "TBA"
+        "price": "15000"
       }
     ]
   },
